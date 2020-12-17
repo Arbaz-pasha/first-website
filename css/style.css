@@ -485,7 +485,6 @@ form:hover .form-button button{
 	.nav-item{
 		text-align: center!important;
 		height: auto;
-		margin-bottom: 20px
 	}
 
 	.footer-div:nth-child(2){
@@ -501,6 +500,9 @@ form:hover .form-button button{
 
 	.header-buttons a{
 		margin:50px 0;
+	}
+	.project-work{
+		width:100%;
 	}
 
 }
